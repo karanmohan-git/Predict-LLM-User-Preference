@@ -1,2 +1,2 @@
 # Predict-LLM-User-Preference
-Ability to predict which LLM's output is prefered by the end user. T
+Data Available on Kaggle - https://www.kaggle.com/competitions/llm-classification-finetuning/data
